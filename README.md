@@ -1,4 +1,6 @@
-premake-cmake
-=============
+# CMake Premake5 action
 
-cmake output for premake5
+Supported features:
+
+* C/C++, C# projects
+* D projects when used in conjunction with the d-language extension
