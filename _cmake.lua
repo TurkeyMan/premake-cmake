@@ -25,7 +25,7 @@
 		valid_languages = { "C", "C++", "C#", "D" },
 
 		valid_tools     = {
-			cc     = { "msc", clang", "gcc" },
+			cc     = { "msc", "clang", "gcc" },
 			dc     = { "dmd", "gdc", "ldc" },
 			dotnet = { "mono", "msnet", "pnet" }
 		},
